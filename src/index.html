@@ -6,9 +6,46 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+    <section id="purchase" class="show">
+      <h1>Finaliza tu compra</h1>
+      <div class="inputs">
+        <h3>Sony WH-10000XM4 Auriculares inalámbricos con cancelación de ruido</h3>
+        <img src="producto.jpeg" >
+      </div>
+        <button id="btn1" type="button">Finalizar compra</button>
+    </section>
+
+    <section id="payment" class="hide">
+    <h3>Información de pago</h3>
+    <div class="payment_info">
+    <div>
+      <label for="card_number">Número de la tarjeta</label>
+      <input class="inputs" type="number" id="card_number" placeholder="---- ---- ---- ----" required>
+      <!-- <h5 id="warning"></h5> -->
+    </div>
+    <div>
+      <label for="exp_date"> Fecha de expiración</label>
+      <input class="inputs" type="text" id="exp_date" placeholder="MM / AA" maxlength="5" required>
+    </div>
+    <div>
+      <label for="cvv">CVV</label>
+      <input class="inputs" type="text" id="cvv" placeholder="CVV" maxlength="3" required>
+    </div>
+    <div>
+      <button type="button" id="btn2">Pagar</button>
+    </div>
+      <h5 id="validation"></h5>
+    </div>
+  </section>
+  <section id="confirmation" class="hide">
+    <h3>Confirmación del pedido</h3>
+    <div class="inputs">
+    <h5 id="warning"></h5>
+    <img src="bags.jpg">
+    </div>
+  </section>
+
+
     <script src="index.js" type="module"></script>
   </body>
 </html>
