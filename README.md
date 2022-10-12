@@ -12,9 +12,11 @@ Objetivo: Verificar si la tarjeta de crédito utilizada por el usuario es válid
 ![dos](https://user-images.githubusercontent.com/114378331/195418018-78ff473e-ef63-4535-9b13-a26062e5f225.png)
 
 3. Si el usuario ingresa una tarjeta válida, se le mostrará un mensaje que confirma su pago y que recibirá su número de seguimiento a su correo electrónico.
+
 ![tres](https://user-images.githubusercontent.com/114378331/195418071-0e50dc3c-ca62-4112-97cc-901b9e3df4a2.png)
 
 4. Si el usuario ingresa una tarjeta inválida, se le mostrará un mensaje que le indica que deberá ingresar otro número de tarjeta.
+
 ![cuatro](https://user-images.githubusercontent.com/114378331/195418097-2c6facb7-e6e2-4732-8990-c1a02fbefd78.png)
 
 ## Índice
