@@ -6,9 +6,11 @@ Objetivo: Verificar si la tarjeta de crédito utilizada por el usuario es válid
 
 
 1. El proyecto inicia mostrando los pasos finales al realizar una compra en una web. Muestra el producto seleccionado por el usuario y el botón para finalizar su compra.  
+
 ![uno](https://user-images.githubusercontent.com/114378331/195417989-edb99967-2a1a-4438-9ab8-39397353d963.png)
 
 2. El usuario debe ingresar los datos que se le solicitan: número de tarjeta, fecha de expiración de la tarjeta y código CVV. 
+
 ![dos](https://user-images.githubusercontent.com/114378331/195418018-78ff473e-ef63-4535-9b13-a26062e5f225.png)
 
 3. Si el usuario ingresa una tarjeta válida, se le mostrará un mensaje que confirma su pago y que recibirá su número de seguimiento a su correo electrónico.
