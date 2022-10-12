@@ -1,5 +1,10 @@
 # Tarjeta de crédito válida
 
+Este producto ha sido diseñado pensando en aquellos consumidores interesados en hacer compras por internet y que desean realizar los pagos de sus compras con una tarjeta de crédito.
+
+Objetivo: Verificar si la tarjeta de crédito utilizada por el usuario es válida para completar su compra.
+
+
 ## Índice
 
 * [1. Objetivos de aprendizaje generales](#1-objetivos-de-aprendizaje-generales)
