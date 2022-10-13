@@ -11,8 +11,7 @@ document.getElementById("btn1").addEventListener("click", function() {
 
 const card = document.getElementById("card_number")
 const button =  document.getElementById("btn2")
-//const expDate = document.getElementById("exp_Date")
-//const cvv = document.getElementById("cvv")
+
 
 
 

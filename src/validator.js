@@ -4,19 +4,18 @@ const validator = {
   isValid (creditCardNumber) {
 
     //Traer el input a un array
-    let cardArray = creditCardNumber.split("")
-    let addDigits = 0
-    let totalEven = 0
-    let totalOdd = 0
-    
+    let cardArray = creditCardNumber.split("").reverse();
+    let addDigits = 0;
+    let totalEven = 0;
+    let totalOdd = 0;
 
     //Ciclo for para cada índice del arreglo según se encuentre en una posición par o impar
     for (let i = 0; i < cardArray.length; i++ ){      
       let numPosition = Number(cardArray[i])
       
       //Duplicar los números que están en las posiciones pares
-      if (i % 2 === 0) {
-        numPosition = cardArray[i]*2
+      if ((i+1) % 2 === 0) {
+        numPosition = Number(cardArray[i]*2)
 
             //Sumar los dígitos de los números mayores o iguales a diez
             if  (numPosition >= 10){
@@ -33,7 +32,7 @@ const validator = {
         }
       }
         
-      //Variable con la suma de los números en posicioes pares e impares
+      //Variable con la suma de los números en posiciones pares e impares
       let totalTotal = totalEven + totalOdd
 
       //Si el total dividido entre diez tiene residuo 0, indicar si es VÁLIDA o INVÁLIDA
