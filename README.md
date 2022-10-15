@@ -6,25 +6,25 @@ En los últimos años se ha incrementado la venta por internet de toda variedad 
 
 La emergencia sanitaria por la COVID-19 generó una explosión en el comercio electrónico. De acuerdo al Observatorio E-commerce 2021-2022 de la Cámara Peruana de Comercio Electrónico, en el Perú el número de empresas que venden a través de internet ha aumentado en 55% con relación al 2020. Según esta institución, al cierre del año 2021, 41.8% de los peruanos (13.9 millones) hizo compras por internet. Este es un aumento bastante considerable si tenemos en cuenta que antes de la pandemia solo el 18.6% de peruanos (6 millones) compraban online.
 
-Esto ha ocasionado que los negocios hayan tenido que adaptarse a las nuevas necesidades de las personas y, pese a que algunas temían pagar en línea, han encontrado una salida al implementar en sus tiendas virtuales la opción de pago con tarjetas de crédito o débito.
+Esto ha ocasionado que los negocios hayan tenido que adaptarse a las nuevas necesidades de las personas y, pese a que algunas temían pagar en línea, los negocios han encontrado una salida al implementar en sus tiendas virtuales la opción de pago con tarjetas de crédito o débito.
 
-Teniendo en cuanta lo antes mencionado, se ha pensado en aquellos negocios que desean facilitar la compra de sus productos a través de sus páginas web y en aquellos consumidores interesados en hacer compras por internet con una tarjeta de crédito de manera segura.
+Teniendo en cuanta lo antes mencionado, se ha pensado en aquellos negocios que desean facilitar la compra de sus productos de manera online y en aquellos consumidores interesados en hacer compras por internet con una tarjeta de crédito de manera segura.
 
 Objetivo: Verificar si la tarjeta de crédito utilizada por el usuario es válida para completar su compra.
 
-1. El proyecto inicia mostrando los pasos finales al realizar una compra en una web. Muestra el producto seleccionado por el usuario y el botón para finalizar su compra.  
+* El proyecto inicia mostrando los pasos finales al realizar una compra en una web. Muestra el producto seleccionado por el usuario y el botón para finalizar su compra.  
 
 ![uno](https://user-images.githubusercontent.com/114378331/195417989-edb99967-2a1a-4438-9ab8-39397353d963.png)
 
-2. El usuario debe ingresar los datos que se le solicitan: número de tarjeta, fecha de expiración de la tarjeta y código CVV. 
+* El usuario debe ingresar los datos que se le solicitan: número de tarjeta, fecha de expiración de la tarjeta y código CVV. 
 
 ![dos](https://user-images.githubusercontent.com/114378331/195418018-78ff473e-ef63-4535-9b13-a26062e5f225.png)
 
-3. Si el usuario ingresa una tarjeta válida, se le mostrará un mensaje que confirma su pago y que recibirá su número de seguimiento a su correo electrónico.
+* Si el usuario ingresa una tarjeta válida, se le mostrará un mensaje que confirma su pago y que recibirá su número de seguimiento a su correo electrónico.
 
 ![tres](https://user-images.githubusercontent.com/114378331/195418071-0e50dc3c-ca62-4112-97cc-901b9e3df4a2.png)
 
-4. Si el usuario ingresa una tarjeta inválida, se le mostrará un mensaje que le indica que deberá ingresar otro número de tarjeta.
+* Si el usuario ingresa una tarjeta inválida, se le mostrará un mensaje que le indica que deberá ingresar otro número de tarjeta.
 
 ![cuatro](https://user-images.githubusercontent.com/114378331/195418097-2c6facb7-e6e2-4732-8990-c1a02fbefd78.png)
 
