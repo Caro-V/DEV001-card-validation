@@ -1,9 +1,16 @@
 # Tarjeta de crédito válida
 
-Este producto ha sido diseñado pensando en aquellos consumidores interesados en hacer compras por internet y que desean realizar los pagos de sus compras con una tarjeta de crédito.
+Este producto ha sido elaborado como primer proyecto para el bootcamp Laboratoria, cohort DEV001. 
+
+En los últimos años se ha incrementado la venta por internet de toda variedad de productos, así como la preferencia de las personas de adquirir artículos a través de esta modalidad, ya sea por la ventaja que supone recibir sus compras en la puerta de su hogar, como por la posibilidad de tener a su disposición una gran variedad de ofertas de cualquier parte del mundo.
+
+La emergencia sanitaria por la COVID-19 generó una explosión en el comercio electrónico. De acuerdo al Observatorio E-commerce 2021-2022 de la Cámara Peruana de Comercio Electrónico, en el Perú el número de empresas que venden a través de internet ha aumentado en 55% con relación al 2020. Según esta institución, al cierre del año 2021, 41.8% de los peruanos (13.9 millones) hizo compras por internet. Este es un aumento bastante considerable si tenemos en cuenta que antes de la pandemia solo el 18.6% de peruanos (6 millones) compraban online.
+
+Esto ha ocasionado que los negocios hayan tenido que adaptarse a las nuevas necesidades de las personas y, pese a que algunas temían pagar en línea, han encontrado una salida al implementar en sus tiendas virtuales la opción de pago con tarjetas de crédito o débito.
+
+Teniendo en cuanta lo antes mencionado, se ha pensado en aquellos negocios que desean facilitar la compra de sus productos a través de sus páginas web y en aquellos consumidores interesados en hacer compras por internet con una tarjeta de crédito de manera segura.
 
 Objetivo: Verificar si la tarjeta de crédito utilizada por el usuario es válida para completar su compra.
-
 
 1. El proyecto inicia mostrando los pasos finales al realizar una compra en una web. Muestra el producto seleccionado por el usuario y el botón para finalizar su compra.  
 
